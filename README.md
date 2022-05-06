@@ -1,4 +1,4 @@
-Atherys Launcher
+Atherys Launcher.  [![Java CI with Gradle](https://github.com/Atherys/AtherysLauncher/actions/workflows/gradle.yml/badge.svg)](https://github.com/Atherys/AtherysLauncher/actions/workflows/gradle.yml)
 ================
 
 ## Launcher Info
